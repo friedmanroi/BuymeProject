@@ -1,4 +1,4 @@
 {
-  "browser": "webdriver.Chrome()",
-  "my_url": "\"https://buyme.co.il\""
+  "browser": "chrome",
+  "url": "https://buyme.co.il"
 }
